@@ -165,7 +165,8 @@ else:
 st.markdown("---")
 st.markdown(
     """<p style='text-align: center;'>
-    Powered by <b>Streamlit</b> + <b>Google Gemini AI</b> | Developed by <b>You 🚀</b>
+    Powered by <b>Streamlit</b> + <b>Google Gemini AI</b> 
     </p>""",
     unsafe_allow_html=True,
 )
+
